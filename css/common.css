@@ -1,0 +1,36 @@
+
+.color-primary{
+	color:#0d679c !important;
+}
+.bg-primary{
+	background-color:#0d679c !important;
+}
+
+.color-secondary{
+	color:#fac644  !important;
+}
+.bg-secondary{
+	background-color:#fac644  !important;
+}
+.border-secondary{
+	border-color:#fac644  !important;
+}
+.color-white{
+	color:#fff !important;
+}
+
+.resp-width-25{
+	width: 25%;
+}
+
+.resp-width-50{
+	width: 50%;
+}
+
+.resp-width-75{
+	width: 75%;
+}
+
+.border-white{
+	border-color: #fff;
+}
