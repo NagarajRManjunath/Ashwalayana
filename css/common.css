@@ -34,3 +34,17 @@
 .border-white{
 	border-color: #fff;
 }
+.small{
+	font-size: 12px;
+}
+.no-padding{
+	padding: 0px;
+}
+
+.no-margin{
+	margin:0px;
+}
+
+.bg-secondary-light{
+	background-color: #feeddd;
+}
