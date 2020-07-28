@@ -1,61 +1,50 @@
-html, body {
-  height: 100%;
+
+.color-primary{
+	color:#0d679c !important;
 }
-body {
-  display: flex;
-  flex-direction: column;
-}
-content {
-  flex: 1 0 auto;
-}
-footer {
-  flex-shrink: 0;
-}
-.banner {
-    width: 70%;
-    border: 4px solid #f8ab37;
-}
-.btb-navbar{
-	border-top: 3px solid #fac644 ;
-	border-bottom: 3px solid #fac644 ;
+.bg-primary{
+	background-color:#0d679c !important;
 }
 
-.logo{
-	width: 18%;
+.color-secondary{
+	color:#fac644  !important;
+}
+.bg-secondary{
+	background-color:#fac644  !important;
+}
+.border-secondary{
+	border-color:#fac644  !important;
+}
+.color-white{
+	color:#fff !important;
 }
 
-.fw-2 {
-    font-size: 1.5rem;
-    font-weight: 700;
-    text-shadow: 2px 2px 0 #b93128;
+.resp-width-25{
+	width: 25%;
 }
 
-.copyrighttext{
-	font-size: 14px;
+.resp-width-50{
+	width: 50%;
 }
 
-
-.btn{
-	border-radius: 0px;
-	font-weight: 600;
-}
-.EventDate{
- word-break: break-all;
+.resp-width-75{
+	width: 75%;
 }
 
-.EventTitle{
-	font-size: 20px;
-	font-weight: 400;
+.border-white{
+	border-color: #fff;
 }
-.EventDescription{
+.small{
 	font-size: 12px;
-	font-weight: 100;
-
 }
-.card-custom{
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+.no-padding{
+	padding: 0px;
 }
 
-.section4-text{
-	min-height: 24pc;
+.no-margin{
+	margin:0px;
+}
+
+.bg-secondary-light{
+	background-color: #feeddd;
 }
